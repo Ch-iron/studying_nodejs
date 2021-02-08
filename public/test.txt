@@ -1,0 +1,2 @@
+Hello Sync and Async
+Hello Static
